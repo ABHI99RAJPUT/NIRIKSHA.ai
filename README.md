@@ -277,13 +277,14 @@ When the session is finalized, the API returns a structured report:
 ```
 NIRIKSHA.ai/
 └── src/
-    ├── main.py                # Core API server with all logic
-    └── tests/
+    ├── main.py                      # Core API server with all logic
+    └── tests/                       # Interactive test runner
         └── test_chat.py
-    ├── requirements.txt       # Python dependencies
-    ├── .env.example           # Environment variable template
-    ├── .gitignore             # Git ignore rules
-       # Interactive test runner
+├── requirements.txt                 # Python dependencies
+├── .env.example                     # Environment variable template
+├── .gitignore                       # Git ignore rules
+├── NIRIKSHA.ai - Team Brats.pptx    # Business Pitch Deck
+       
 ```
 
 ---
